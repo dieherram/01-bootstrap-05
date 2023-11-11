@@ -1,0 +1,21 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+button:focus {
+  color: #fff;
+}
+
+.navbar {
+  --bs-navbar-toggler-focus-width: 0.15rem;
+}
+
+@media (max-width: 576px) {
+  .card {
+    min-width: 20rem;
+  }
+
+  input {
+    min-width: 15rem;
+  }
+}
