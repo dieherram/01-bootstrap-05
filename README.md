@@ -41,9 +41,3 @@ A continuación se presenta una vista previa de la página:
 - Se siguió el principio de diseño "mobile first".
 - Se cuidó el orden de carga de los archivos CSS, tipografía y otros necesarios.
 - Se personalizó la paleta de colores para darle una identidad propia al proyecto.
-
-## Autor 👨‍💻
-
-Este proyecto fue desarrollado por [Tu Nombre].
-
-© 2023 Cuppon Latam. Todos los derechos reservados.
